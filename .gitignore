@@ -1,0 +1,7 @@
+/telegram_bot_work/.venv/
+/example.db
+/sqlite.db
+/air_travel_bot/config.py
+/air_travel_bot/.venv/
+/fastapi_project/.venv/
+/telegram_bot_work/config.py
